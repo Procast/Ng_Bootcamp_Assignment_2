@@ -1,0 +1,61 @@
+#A{
+    background-color:hotpink;
+    font-size:3rem;
+    position:sticky;
+    top:0px;
+    content:U+2706;
+}
+
+#B{
+    background-color:hotpink;
+    font-size:3rem;
+    position:sticky;
+    top:0;
+}
+
+#C{
+    background-color: hotpink;
+    font-size: 3rem;
+    position:sticky;
+    top:0;
+}
+
+#D{
+    background-color: hotpink;
+    font-size: 3rem;
+    position:sticky;
+    top:0;
+}
+
+p::before{
+    content:'\1F57F';
+}
+
+#F{
+    background-color: hotpink;
+    font-size: 3rem;
+    position:sticky;
+    top:0;
+
+}
+
+h1{
+    text-align:center;
+    text-decoration: underline;
+    font-size:3rem;
+}
+
+#H{
+    background-color: hotpink;
+    font-size: 3rem;
+    position:sticky;
+    top:0;
+
+}
+
+#N{
+    background-color: hotpink;
+    font-size: 3rem;
+    position:sticky;
+    top:0;
+}
